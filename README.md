@@ -2,7 +2,7 @@
 
   <img src="./avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
 
-  <h1>Hi there, I'm <span style="color: #6C0B25;">Khorn Molika</span> 👋</h1>
+  <h1>Hi there, I'm <span style="color: #6C0B25;">Khorn Molika</span> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /></h1>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=6C0B25&center=true&vCenter=true&width=435&lines=Software+Development+Intern;Cyber+Security+Student" alt="Typing SVG" /></a>
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="28" height="28" /> Tech Stack & Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-461312?style=for-the-badge&logo=openjdk&logoColor=FAF7E7" alt="Java" />
@@ -37,7 +37,7 @@
 
 <br />
 
-## 📈 GitHub Activity & Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Chart%20Increasing.png" alt="Chart" width="28" height="28" /> GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornMolika&bg_color=FAF7E7&color=6C0B25&line=64652A&point=461312&area=true&hide_border=false&border_color=B5AD80&border_radius=10" width="100%" alt="GitHub Activity Graph" />
@@ -52,7 +52,7 @@
 
 <br />
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="28" height="28" /> Education
 
 > **Bachelor of Computer Science and Engineering**
 > *ACLEDA University of Business* | `2024 - 2027`
@@ -62,7 +62,7 @@
 
 <br />
 
-## 💼 Work Experience
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="28" height="28" /> Work Experience
 
 > **FinTech Development Office** | *Software Development Intern*
 > Developed a reusable assessment microservice supporting e-learning, surveys, technology risk assessments, and real-time quizzes.
@@ -72,7 +72,7 @@
 
 <br />
 
-## 🚀 Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Projects
 
 | Project | Description | Details |
 | :--- | :--- | :---: |
@@ -82,7 +82,7 @@
 
 <br />
 
-## 🏆 Achievements
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" height="28" /> Achievements
 
 - **Graduated with grade A** — Diploma in Electronic (2023)
 - **Top project team at ISTAD** — 100% IT FOUNDATION Scholarship (2024)
@@ -91,7 +91,7 @@
 
 ---
 
-## 📫 Get in Touch
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="28" height="28" /> Get in Touch
 
 <div align="center">
   <a href="mailto:molikakhorn71@gmail.com">
