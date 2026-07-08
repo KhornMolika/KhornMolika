@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/KhornMolika/KhornMolika/main/avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
+  <img src="./avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
 
   <h1>Hi there, I'm <span style="color: #6C0B25;">Khorn Molika</span> 👋</h1>
   
@@ -54,93 +54,31 @@
 
 ## 🎓 Education
 
-<table align="center" width="100%" style="border-color: #B5AD80;">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">Bachelor of Computer Science and Engineering</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>ACLEDA University of Business</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🗓️ 2024 - 2027</p>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3 style="color: #6C0B25; margin: 0;">Associate Degree of Cyber Security</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>TUX Global Institute</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🗓️ 2025 - 2027</p>
-    </td>
-  </tr>
-</table>
+> **Bachelor of Computer Science and Engineering**
+> *ACLEDA University of Business* | `2024 - 2027`
+> 
+> **Associate Degree of Cyber Security**
+> *TUX Global Institute* | `2025 - 2027`
 
 <br />
 
 ## 💼 Work Experience
 
-<table align="center" width="100%" style="border-color: #B5AD80;">
-  <tr>
-    <td width="25%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">FinTech Development Office</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>Software Development Intern</i></p>
-    </td>
-    <td width="75%" valign="top">
-      <p style="color: #2E1A0E; margin: 0;">
-        Developed a reusable assessment microservice supporting e-learning, surveys, technology risk assessments, and real-time quizzes.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">ABU ROBOCON</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>Volunteer Field Team</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🗓️ 2023</p>
-    </td>
-    <td width="75%" valign="top">
-      <p style="color: #2E1A0E; margin: 0;">
-        Managed robot practice fields and coordinated schedules for competition rounds, ensuring a smooth and fair event for all participants.
-      </p>
-    </td>
-  </tr>
-</table>
+> **FinTech Development Office** | *Software Development Intern*
+> Developed a reusable assessment microservice supporting e-learning, surveys, technology risk assessments, and real-time quizzes.
+>
+> **ABU ROBOCON** | *Volunteer Field Team*
+> Managed robot practice fields and coordinated schedules for competition rounds, ensuring a smooth and fair event for all participants. `2023`
 
 <br />
 
 ## 🚀 Projects
 
-<table align="center" width="100%" style="border-color: #B5AD80;">
-  <tr>
-    <td width="25%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">Aroma Shop</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>E-commerce Web App</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🔗 <a href="https://github.com/KhornMolika/Aroma">github/Aroma</a></p>
-    </td>
-    <td width="75%" valign="top">
-      <p style="color: #2E1A0E; margin: 0;">
-        Built an e-commerce web application using Django to manage products, shopping cart functionality, and user interactions, featuring a responsive interface.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">Teaching Record</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>Django Web App</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🔗 <a href="https://github.com/KhornMolika/Teaching-Record">github/Teaching-Record</a></p>
-    </td>
-    <td width="75%" valign="top">
-      <p style="color: #2E1A0E; margin: 0;">
-        Streamlines teaching record management for educational institutions. Lecturers upload data via Excel, and administrators can manage users and view analytics.
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="25%" align="center" valign="top" style="border-right: 2px solid #B5AD80;">
-      <h3 style="color: #6C0B25; margin: 0;">CMS</h3>
-      <p style="color: #64652A; margin: 5px 0;"><i>PHP & MySQL</i></p>
-      <p style="color: #2E1A0E; font-size: 14px; margin: 0;">🔗 <a href="https://github.com/KhornMolika/CMS">github/CMS</a></p>
-    </td>
-    <td width="75%" valign="top">
-      <p style="color: #2E1A0E; margin: 0;">
-        A lightweight CMS built with PHP, MySQL, and Tailwind CSS, featuring an easy-to-use dashboard to manage posts, categories, and comments with secure user access.
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Details |
+| :--- | :--- | :---: |
+| **Aroma Shop** | E-commerce Django web app to manage products and shopping carts. | [github/Aroma](https://github.com/KhornMolika/Aroma) |
+| **Teaching Record** | Django web app streamlining record management for educational institutions. | [github/Teaching-Record](https://github.com/KhornMolika/Teaching-Record) |
+| **CMS** | Lightweight PHP & MySQL Content Management System with a Tailwind CSS dashboard. | [github/CMS](https://github.com/KhornMolika/CMS) |
 
 <br />
 
