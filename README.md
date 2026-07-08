@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/KhornMolika/KhornMolika/main/avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
+  <img src="./avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
 
   <h1>Hi there, I'm <span style="color: #6C0B25;">Khorn Molika</span> 👋</h1>
   
