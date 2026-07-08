@@ -17,8 +17,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif" alt="Snake animation" />
-  <br/>
-  <sup><em>(If the snake animation above is missing, follow the Walkthrough to set up the GitHub Action!)</em></sup>
 </div>
 
 ---
