@@ -16,7 +16,9 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/KhornMolika/KhornMolika/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <img src="https://raw.githubusercontent.com/KhornMolika/KhornMolika/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation" />
+  </picture>
   <br/>
   <sup><em>(If the snake animation above is missing, follow the Walkthrough to set up the GitHub Action!)</em></sup>
 </div>
@@ -45,8 +47,8 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10&count_private=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10" height="190" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10&count_private=true" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10" height="190" alt="Top Languages" />
 </div>
 
 <br />
