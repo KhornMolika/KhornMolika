@@ -6,7 +6,7 @@
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=6C0B25&center=true&vCenter=true&width=435&lines=Software+Development+Intern;Cyber+Security+Student" alt="Typing SVG" /></a>
 
-  <p align="center" style="color: #461312; font-size: 16px; max-width: 600px; margin: 0 auto;">
+  <p align="center" style="font-size: 16px; max-width: 600px; margin: 0 auto;">
     <i>Computer Science student with hands-on experience in web and mobile development, including Django-based analytics systems, PHP content management systems, and database-driven applications. Strong in backend development, SQL, and secure CRUD operations, with a growing interest in FinTech and financial technology solutions.</i>
   </p>
 
@@ -15,7 +15,11 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif">
+    <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
+  </picture>
 </div>
 
 ---
@@ -40,14 +44,26 @@
 ## <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@main/icons/stats.svg" alt="Stats" width="28" height="28" style="vertical-align: bottom;" /> GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornMolika&bg_color=FAF7E7&color=6C0B25&line=64652A&point=461312&area=true&hide_border=false&border_color=B5AD80&border_radius=10" width="100%" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KhornMolika&bg_color=0D1117&color=F71756&line=64652A&point=F71756&area=true&hide_border=false&border_color=30363D&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=KhornMolika&bg_color=FAF7E7&color=6C0B25&line=64652A&point=461312&area=true&hide_border=false&border_color=B5AD80&border_radius=10">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhornMolika&bg_color=FAF7E7&color=6C0B25&line=64652A&point=461312&area=true&hide_border=false&border_color=B5AD80&border_radius=10" width="100%" alt="GitHub Activity Graph" />
+  </picture>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10&count_private=true" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10" height="190" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=0D1117&title_color=F71756&text_color=C9D1D9&icon_color=64652A&border_color=30363D&border_radius=10&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10&count_private=true">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=KhornMolika&show_icons=true&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10&count_private=true" height="190" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=0D1117&title_color=F71756&text_color=C9D1D9&icon_color=64652A&border_color=30363D&border_radius=10">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KhornMolika&layout=compact&bg_color=FAF7E7&title_color=6C0B25&text_color=2E1A0E&icon_color=64652A&border_color=B5AD80&border_radius=10" height="190" alt="Top Languages" />
+  </picture>
 </div>
 
 <br />
