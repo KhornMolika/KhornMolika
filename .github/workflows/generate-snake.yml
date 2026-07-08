@@ -10,7 +10,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
       - name: generate github-contribution-grid-snake.svg
@@ -19,9 +19,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#6C0B25&color_dots=#FAF7E7,#B5AD80,#64652A,#461312,#2E1A0E
-            dist/github-contribution-grid-snake.gif?color_snake=#6C0B25&color_dots=#FAF7E7,#B5AD80,#64652A,#461312,#2E1A0E
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#6C0B25
-            dist/github-contribution-grid-snake-dark.gif?palette=github-dark&color_snake=#6C0B25
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F71756
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

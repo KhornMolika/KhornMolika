@@ -16,9 +16,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif">
-    <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.svg">
+    <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
   </picture>
 </div>
 
