@@ -16,8 +16,7 @@
 ---
 
 <div align="center">
-  <!-- Note: The snake animation requires setting up the Platane/snk GitHub Action. -->
-  <img src="https://raw.githubusercontent.com/KhornMolika/KhornMolika/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://cdn.jsdelivr.net/gh/KhornMolika/KhornMolika@output/github-contribution-grid-snake.gif" alt="GitHub Snake Animation" />
 </div>
 
 ---
