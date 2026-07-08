@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
+  <img src="https://raw.githubusercontent.com/KhornMolika/KhornMolika/main/avatar.png" alt="Khorn Molika" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #6C0B25; padding: 4px;" />
 
   <h1>Hi there, I'm <span style="color: #6C0B25;">Khorn Molika</span> 👋</h1>
   
@@ -77,8 +77,16 @@
 
 ---
 
+## 📫 Get in Touch
+
 <div align="center">
-  <p style="color: #64652A; font-size: 14px;">
-    <i>Designed with custom palette: Espresso, Burgundy, Ruby, Olive, Sage, Cream</i>
-  </p>
+  <a href="mailto:molikakhorn71@gmail.com">
+    <img src="https://img.shields.io/badge/Email-461312?style=for-the-badge&logo=gmail&logoColor=FAF7E7" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/khornmolika">
+    <img src="https://img.shields.io/badge/LinkedIn-64652A?style=for-the-badge&logo=linkedin&logoColor=FAF7E7" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/KhornMolika">
+    <img src="https://img.shields.io/badge/GitHub-6C0B25?style=for-the-badge&logo=github&logoColor=FAF7E7" alt="GitHub" />
+  </a>
 </div>
